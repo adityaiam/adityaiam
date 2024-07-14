@@ -1,26 +1,6 @@
-# 🌟 Hey 🙋🏻‍♂
+# 🌟 Hey I'm Aditya 🙋🏻‍♂
 
 ## Full Stack Developer
-
-**📍 Address:**  
-Jai Malhar Nagar, Nav-nagapur, MIDC, Ahmednagar – 414111  
-
-**✉️ Email:**  
-[adityaingale1814@gmail.com](mailto:adityaingale1814@gmail.com)  
-
-**📞 Phone:**  
-+91 8485846179  
-
-**🌐 Website:**  
-[adityaingale.com](https://adityaingale.com)
-
----
-
-## 🎯 Objective
-
-Passionate full stack developer specializing in **React.js**, **Next.js**, and **Spring Boot**. Seeking to contribute as a Java developer or full stack developer at a leading software company.
-
----
 
 ## 💼 Professional Experience
 
