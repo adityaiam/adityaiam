@@ -32,43 +32,9 @@
 
 ---
 
-## 🛠️ Skills
-
-| Category     | Skills                                       |
-|--------------|----------------------------------------------|
-| **Frameworks** | Spring MVC, Spring JPA, Spring Security, Next.js, React.js |
-| **Libraries**  | Tailwind CSS                               |
-| **Frontend**   | JavaScript, TypeScript                     |
-| **Backend**    | Java, Node.js, SQL                         |
-| **Databases**  | MySQL, MongoDB                             |
-| **Tools**      | Figma, Canva, IntelliJ IDEA                |
-
----
-
-## 🚀 Projects
-
-### 📹 Live Meeting Application
-**Technologies:** React.js, Next.js, TypeScript, Tailwind CSS, Shadcn, Clerk, Getstream  
-A video conferencing tool enabling users to securely log in, create meetings, and access functionalities like recording, screen sharing, and managing participants.
-
-### 🏗️ Raw Material Management System for Construction Company
-**Technologies:** Java, Thymeleaf, Spring MVC, SQL, JDBC  
-A management system that offers a streamlined platform for customers and administrators, featuring a dynamic dashboard for project creation, raw material management, and supplier oversight.
-
----
-
-## 📋 Personal Details
-
-- **🎂 Date of Birth:** 4th June 2003
-- **📍 Present Location:** Ahmednagar, India
-- **💍 Marital Status:** Unmarried
-
----
-
 ## 🔗 Links
 
 - **🔗 [LinkedIn](https://www.linkedin.com/in/adityaingale)**  
-- **🐙 [GitHub](https://github.com/adityaiam)**  
 - **🖥️ [Portfolio](https://adityaingale.com)**  
 
 ---
