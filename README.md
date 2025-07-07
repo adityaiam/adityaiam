@@ -2,7 +2,7 @@
 
 Welcome to my personal developer portfolio built using **Next.js**, showcasing who I am, what I do, my experiences, skills, and the projects I’ve worked on.
 
-> 🎯 **Live Site**: [https://adityaiam.vercel.app](https://adityaiam.vercel.app)  
+> 🎯 **Live Site**: [https://adityaingale.com](https://adityaingale.com)  
 > 📧 **Email**: adityaingale1814@gmail.com  
 > 📍 **Location**: Ahmednagar (Ahilyanagar), Maharashtra, India
 
